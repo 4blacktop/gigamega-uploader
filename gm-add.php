@@ -22,8 +22,8 @@ ob_start();
 echo '<pre>';
 
 // данные для авторизации
-$login = 'blacktop';
-$pass = 'vV19071958';
+$login = '$login';
+$pass = '$login';
 $blacklist = '5123'; //игровая БЛ
 
 // номер строки для загрузки тизера
